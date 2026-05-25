@@ -9,3 +9,6 @@ package-lock.json
 04-redis-otp-login-ttl/node_modules/
 04-redis-otp-login-ttl/package-lock.json
 04-redis-otp-login-ttl/package.json
+05-redis-user-profile-json-hash/node_modules/
+05-redis-user-profile-json-hash/package-lock.json
+05-redis-user-profile-json-hash/package.json
