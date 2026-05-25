@@ -1,0 +1,8 @@
+docker-compose.yml
+02-redis-local-setup/node_modules/
+02-redis-local-setup/package-lock.json
+02-redis-local-setup/package.json
+package-lock.json
+03-redis-site-banners/node_modules/
+03-redis-site-banners/package-lock.json
+03-redis-site-banners/package.json
