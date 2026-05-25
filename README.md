@@ -1,4 +1,4 @@
-Getting Started with Redis
+# Getting Started with Redis
 
 This repository contains all the code, and practice projects I build while learning Redis through the Chai Aur Code YouTube series.
 
