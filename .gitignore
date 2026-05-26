@@ -18,3 +18,6 @@ package-lock.json
 07-Redis-BullMQ/node_modules/
 07-Redis-BullMQ/package-lock.json
 07-Redis-BullMQ/package.json
+08-Redis-PubSub/node_modules/
+08-Redis-PubSub/package-lock.json
+08-Redis-PubSub/package.json

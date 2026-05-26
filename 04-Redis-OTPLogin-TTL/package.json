@@ -1,5 +1,5 @@
 {
-    "name": "02-redis-local-setup-practical",
+    "name": "04-redis-otplogin-ttl",
     "version": "1.0.0",
     "private": true,
     "type": "module",
