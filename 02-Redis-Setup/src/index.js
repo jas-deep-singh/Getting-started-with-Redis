@@ -16,7 +16,7 @@ app.get('/mongo', async(req, res) => {
     if(mongoose.connection.readyState === 0) {
         await mongoose.connect(url);
     }
-    res.json({ mongo: 'connected', databse: mongoose.connection.name });
+    res.json({ mongo: 'connected', database: mongoose.connection.name });
 });
 
 app.listen(3000, () => {
