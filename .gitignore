@@ -21,3 +21,6 @@ package-lock.json
 08-Redis-PubSub/node_modules/
 08-Redis-PubSub/package-lock.json
 08-Redis-PubSub/package.json
+09-Redis-LeaderBoard/node_modules/
+09-Redis-LeaderBoard/package-lock.json  
+09-Redis-LeaderBoard/package.json
